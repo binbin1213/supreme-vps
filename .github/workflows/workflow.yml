@@ -9,4 +9,4 @@ jobs:
       - name: collie
         uses: dvkunion/collie_tricker@main
         with:
-          token: cfsq37q8uter77sjvn60
+          token: cfsq9qq8uter77sjvn6g
