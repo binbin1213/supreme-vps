@@ -1,3 +1,4 @@
+# entry
 name: example
 on: [ push, pull_request ]
 
@@ -9,4 +10,4 @@ jobs:
       - name: collie
         uses: dvkunion/collie_tricker@main
         with:
-          token: cfsq9qq8uter77sjvn6g
+          token: ${{ secrets.token }} 
